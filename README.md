@@ -2,14 +2,14 @@
 
 Bienvenidos a
 # Mi presentación
+![imagen aquí](https://picsum.photos/1600/500)
 
 ## Datos personales
-* Nombre:
-* Edad:
-* Carrera:
-* Comentarios:
+* Nombre: Matias Ezequiel
+* Edad: 19
+* Carrera: Licenciatura en Informatica / Tecnicatura Universitaria en Programación
+* Comentarios: -
 
-![imagen aquí](./assets/imagen.webm)
 
 
 ## Links importantes
