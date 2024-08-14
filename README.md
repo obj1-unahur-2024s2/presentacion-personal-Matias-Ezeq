@@ -2,16 +2,15 @@
 
 Bienvenidos a
 # Mi presentación
-![imagen aquí](https://picsum.photos/1600/500)
+![imagen aleatoria de picsum.photos](https://picsum.photos/1600/300?random=1)
 
 ## Datos personales
 * Nombre: Matias Ezequiel
-* Edad: 19
 * Carrera: Licenciatura en Informatica / Tecnicatura Universitaria en Programación
 * Comentarios: -
 
-
+![imagen aleatoria de picsum.photos](https://picsum.photos/1600/300?random=2)
 
 ## Links importantes
-- [x] Mi [github personal](https://github.com/Matytoonist)
-- [x] Mi [sitio web en neocities](https://matytoonistarchive.neocities.org/)
+- [x] Mi [github personal](https://github.com/Matytoonist)🐈‍⬛
+- [x] Mi [sitio web en neocities](https://matytoonistarchive.neocities.org/)🌆
