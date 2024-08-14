@@ -3,19 +3,13 @@
 Bienvenidos a
 # Mi presentación
 
-[texto va aquí]
-
-```
-
-[ascii art aquí]
-
-```
-
 ## Datos personales
 * Nombre:
 * Edad:
 * Carrera:
 * Comentarios:
+
+[imagen aquí](./assets/imagen.webm)
 
 
 ## Links importantes
