@@ -9,7 +9,7 @@ Bienvenidos a
 * Carrera:
 * Comentarios:
 
-[imagen aquí](./assets/imagen.webm)
+![imagen aquí](./assets/imagen.webm)
 
 
 ## Links importantes
