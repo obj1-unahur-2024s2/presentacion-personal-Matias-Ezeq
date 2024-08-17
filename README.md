@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a
-![Mi presentación. Una introducción básica, hecha en GitHub](./assets/miIntroducción.webp)
+![Mi presentación. Una introducción básica, hecha en GitHub](./assets/MiPresentación.webp)
 
 ## Datos personales
 * Nombre y apellido: Matias Ezequiel de la Rosa
